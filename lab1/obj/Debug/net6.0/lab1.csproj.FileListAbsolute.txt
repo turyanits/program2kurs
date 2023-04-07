@@ -1,0 +1,7 @@
+C:\C#\2 kurs\labs\2 semester\lab1\lab1\obj\Debug\net6.0\lab1.csproj.AssemblyReference.cache
+C:\C#\2 kurs\labs\2 semester\lab1\lab1\obj\Debug\net6.0\lab1.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\2 kurs\labs\2 semester\lab1\lab1\obj\Debug\net6.0\lab1.AssemblyInfoInputs.cache
+C:\C#\2 kurs\labs\2 semester\lab1\lab1\obj\Debug\net6.0\lab1.AssemblyInfo.cs
+C:\C#\2 kurs\labs\2 semester\lab1\lab1\obj\Debug\net6.0\lab1.csproj.CoreCompileInputs.cache
+C:\C#\2 kurs\labs\2 semester\lab1\lab1\obj\Debug\net6.0\lab1.MvcApplicationPartsAssemblyInfo.cs
+C:\C#\2 kurs\labs\2 semester\lab1\lab1\obj\Debug\net6.0\lab1.MvcApplicationPartsAssemblyInfo.cache
